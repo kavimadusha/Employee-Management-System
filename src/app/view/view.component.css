@@ -1,0 +1,53 @@
+h1{
+    color: #021E2E;
+    margin-left: -100px;
+}
+
+body {
+margin: 0;
+font-family: "Lato", sans-serif;
+}
+
+div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+}
+
+table{
+    width: 72%;
+    border-collapse: collapse;
+}
+
+.empview{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#emp td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    height: 35px;
+}
+
+#emp th{
+    border: 1px solid #ddd;
+    padding: 8px;
+    height: 10px;
+}
+
+#emp th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #1675AA;
+    color: white;
+}
+
+#emp tr:nth-child(even){
+    background-color:#7EA6BD;
+}
+
+#emp tr:hover{
+    background-color:darkgray
+}
