@@ -1,7 +1,8 @@
 # 👋Employee Management Systeam
 <hr>
 
-This is a simple website created using Angular and Firebase.
+This is a simple website created using Angular and Firebase. 
+Using this application, administrators can easily manage and monitor their employees.
 
 ### Deployed URL of my web application - https://employee-details-61e9e.web.app/
 
@@ -67,3 +68,11 @@ Github Actions
 ![7](https://user-images.githubusercontent.com/56311015/137108217-d517c270-e70c-452c-aeb9-04dad7a428d8.PNG)
 ![8](https://user-images.githubusercontent.com/56311015/137108224-af33b25f-856f-4f51-9800-ea5a85943e92.PNG)
 ![9](https://user-images.githubusercontent.com/56311015/137108237-7ef8f74e-482f-4b64-bd69-5c5b8c6dc3a5.PNG)
+
+## Unit Testing 
+
+- I used Jasmine as a Unit testing framework and Karma as a Test runer.
+
+
+![t1](https://user-images.githubusercontent.com/56311015/137310812-ca9554e1-b4e4-43a2-87c0-ee12fef0ae5d.PNG)
+![t2](https://user-images.githubusercontent.com/56311015/137310833-aa3688c7-49a2-44ef-a6c7-b6360390abcb.PNG)
