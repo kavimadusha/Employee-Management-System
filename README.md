@@ -1,7 +1,10 @@
 # 👋Employee Management Systeam
 <hr>
 
-This is a simple website created using Angular and Firebase. 
+This employee management web-based application to fulfill
+the CRUD operations. In this system, the user/ Admin could add
+new employees to the system by entering data, editing the
+existing employee data, deleting the employee record, and viewing all employee records.
 Using this application, administrators can easily manage and monitor their employees.
 
 ### Deployed URL of my web application - https://employee-details-61e9e.web.app/
