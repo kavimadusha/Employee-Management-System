@@ -1,4 +1,4 @@
-# 👋Employee Management Systeam
+# 👋Employee Management System
 <hr>
 
 This employee management web-based application to fulfill
