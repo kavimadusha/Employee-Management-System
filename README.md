@@ -21,7 +21,7 @@ Using this application, administrators can easily manage and monitor their emplo
 - Frontend Framework - Angular
 - Backend Framework - NodeJs
 - Database - Firebase - Cloud Firestore 
-- Hosting - Firebase Hostig
+- Hosting - Firebase Hosting
 - Unit Testing Framework - Jasmine | Test runner - Karma 
 - Project Management Tool - Trello
 
